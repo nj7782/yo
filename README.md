@@ -1,4 +1,4 @@
-# Facedetection_with_uniqueID Using Using Haar Cascades
+# Facedetection_with_uniqueID Using Haar Cascades
 
 This project demonstrates a simple method for detecting faces in video footage using **Haar Cascades**. The system assigns a **unique ID** to each detected face and tracks them across frames by calculating the **Intersection over Union (IoU)** between detected faces. The IDs are updated when faces move across the screen, and the system continues assigning new IDs to any new faces that appear in the frame.
 
