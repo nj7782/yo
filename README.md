@@ -25,17 +25,11 @@ This project demonstrates a simple method for detecting faces in video footage u
      - [Haarcascade Frontalface Default](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
      - [Haarcascade Eye](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml)
 
-   Once downloaded, place them in the correct paths:
-   ```bash
-   C:\nj\haarcascade_frontalface_default.xml
-   C:\Users\jitin\Downloads\haarcascade_eye.xml
-   ```
+   Once downloaded, place them in the correct paths
+
 
 4. **Update the video path**:
-   - Make sure to specify the correct path to the input video file in the script:
-     ```bash
-     C:\nj\ABA Therapy - Play.mp4
-     ```
+   - Make sure to specify the correct path to the input video file in the script
 
 ## Running the Code
 
