@@ -20,15 +20,7 @@ This project demonstrates a simple method for detecting faces in video footage u
    pip install opencv-python-headless numpy
    ```
 
-3. **Download Haar Cascade files**:
-   - You will need to download the Haar Cascade files for face and eye detection:
-     - [Haarcascade Frontalface Default](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
-     - [Haarcascade Eye](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml)
-
-   Once downloaded, place them in the correct paths
-
-
-4. **Update the video path**:
+3. **Update the video path**:
    - Make sure to specify the correct path to the input video file in the script
 
 ## Running the Code
